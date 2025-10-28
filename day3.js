@@ -1,3 +1,5 @@
+// find square with quadratic logic
+
 function isSquareCheck(arr1 , arr2){
 
     for(let i = 0; i < arr1.length - 1; i++){
